@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">This is How I Think</title>
+    <subtitle type="html">Personal Blog of Shah Newaj</subtitle>
+    <updated>2023-07-25T05:52:26-04:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>Shah Newaj</name>
+            <uri>https://example.com/</uri>
+            
+                <email>newaj@proton.me</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.114.1">Hugo</generator>
+        <entry>
+            <title type="text">Second_post</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/second_post/" />
+            <id>https://example.com/posts/second_post/</id>
+            <updated>2023-06-25T02:47:54-04:00</updated>
+            <published>2023-06-25T02:47:33-04:00</published>
+            <author>
+                    <name>Shah Newaj</name>
+                    <uri>https://youtube.com/@nukapasta</uri>
+                    <email>newaj@proton.me</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">sdfsdfsdfdsf</summary>
+            
+                <content type="html">&lt;p&gt;sdfsdfsdfdsf&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">I Think I Should Name This “First Post”</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/first_post/" />
+            <id>https://example.com/posts/first_post/</id>
+            <updated>2023-07-07T12:39:13-04:00</updated>
+            <published>2023-06-25T02:15:11-04:00</published>
+            <author>
+                    <name>Shah Newaj</name>
+                    <uri>https://youtube.com/@nukapasta</uri>
+                    <email>newaj@proton.me</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This is a head Hello, My name is Shah Newaj (I have a bigger legal name though). Welcome to my portal. I have decided to not get my domain for now. That&amp;rsquo;s why I&amp;rsquo;m posting through the GitHub domain.
+This is another head I will try to write my updates here, and some documentation that I have to keep coming back, and hope they&amp;rsquo;ll be helpful for others too.</summary>
+            
+                <content type="html">&lt;h1 id=&#34;this-is-a-head&#34;&gt;This is a head&lt;/h1&gt;
+&lt;p&gt;Hello,
+My name is Shah Newaj (I have a bigger legal name though). Welcome to my portal. I have decided to not get my domain for now. That&amp;rsquo;s why I&amp;rsquo;m posting through the GitHub domain.&lt;/p&gt;
+&lt;h1 id=&#34;this-is-another-head&#34;&gt;This is another head&lt;/h1&gt;
+&lt;p&gt;I will try to write my updates here, and some documentation that I have to keep coming back, and hope they&amp;rsquo;ll be helpful for others too. Moreover, you will find my projects listed somewhere, not sure where should I put them yet.
+I will try to write them as concise as possible.&lt;/p&gt;
+&lt;p&gt;Besides, I am going to make some videos for my &lt;a href=&#34;https://www.youtube.com/@nukapasta&#34;&gt;Youtube&lt;/a&gt; channel &lt;a href=&#34;https://www.youtube.com/@nukapasta&#34;&gt;Nukapasta&lt;/a&gt;&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/categories/personal/" term="Personal" label="Personal" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/autobiography/" term="autobiography 📓" label="autobiography 📓" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/personal/" term="personal 📝" label="personal 📝" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://example.com/tags/sliceoflife/" term="sliceoflife 🧬" label="sliceoflife 🧬" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

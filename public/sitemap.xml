@@ -2,20 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2023-06-25T02:47:33-04:00</lastmod>
+    <loc>https://example.com/projects/first_project/</loc>
+    <lastmod>2023-07-07T11:50:32-04:00</lastmod>
   </url><url>
-    <loc>/posts/second_post/</loc>
-    <lastmod>2023-06-25T02:47:33-04:00</lastmod>
+    <loc>https://example.com/tags/project/</loc>
+    <lastmod>2023-07-07T11:50:32-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-06-25T02:47:33-04:00</lastmod>
+    <loc>https://example.com/projects/</loc>
+    <lastmod>2023-07-07T11:50:32-04:00</lastmod>
   </url><url>
-    <loc>/posts/first_post/</loc>
-    <lastmod>2023-06-25T02:15:11-04:00</lastmod>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-07-07T18:19:16-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2023-07-07T18:19:16-04:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://example.com/tags/vehicle/</loc>
+    <lastmod>2023-07-07T11:50:32-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/about/</loc>
+    <lastmod>2023-07-07T18:19:16-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2023-07-07T18:19:16-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/contact/</loc>
+    <lastmod>2023-07-07T18:19:16-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/update/</loc>
+    <lastmod>2023-07-07T18:19:16-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/second_post/</loc>
+    <lastmod>2023-06-25T02:47:54-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/autobiography/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/first_post/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/personal/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/personal/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/sliceoflife/</loc>
+    <lastmod>2023-07-07T12:39:13-04:00</lastmod>
   </url>
 </urlset>

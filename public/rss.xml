@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>This is How I Think</title>
+        <link>https://example.com/</link>
+        <description>Personal Blog of Shah Newaj</description>
+        <generator>Hugo 0.114.1 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>newaj@proton.me (Shah Newaj)</managingEditor>
+        
+        
+            <webMaster>newaj@proton.me (Shah Newaj)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Tue, 25 Jul 2023 05:52:26 -0400</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>Second_post</title>
+                <link>https://example.com/posts/second_post/</link>
+                <guid isPermaLink="true">https://example.com/posts/second_post/</guid>
+                <pubDate>Sun, 25 Jun 2023 02:47:33 -0400</pubDate>
+                
+                    <author>newaj@proton.me (Shah Newaj)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;sdfsdfsdfdsf&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>I Think I Should Name This “First Post”</title>
+                <link>https://example.com/posts/first_post/</link>
+                <guid isPermaLink="true">https://example.com/posts/first_post/</guid>
+                <pubDate>Sun, 25 Jun 2023 02:15:11 -0400</pubDate>
+                
+                    <author>newaj@proton.me (Shah Newaj)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;this-is-a-head&#34;&gt;This is a head&lt;/h1&gt;
+&lt;p&gt;Hello,
+My name is Shah Newaj (I have a bigger legal name though). Welcome to my portal. I have decided to not get my domain for now. That&amp;rsquo;s why I&amp;rsquo;m posting through the GitHub domain.&lt;/p&gt;
+&lt;h1 id=&#34;this-is-another-head&#34;&gt;This is another head&lt;/h1&gt;
+&lt;p&gt;I will try to write my updates here, and some documentation that I have to keep coming back, and hope they&amp;rsquo;ll be helpful for others too. Moreover, you will find my projects listed somewhere, not sure where should I put them yet.
+I will try to write them as concise as possible.&lt;/p&gt;
+&lt;p&gt;Besides, I am going to make some videos for my &lt;a href=&#34;https://www.youtube.com/@nukapasta&#34;&gt;Youtube&lt;/a&gt; channel &lt;a href=&#34;https://www.youtube.com/@nukapasta&#34;&gt;Nukapasta&lt;/a&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/personal/">Personal</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/autobiography/">autobiography 📓</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/personal/">personal 📝</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/sliceoflife/">sliceoflife 🧬</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
