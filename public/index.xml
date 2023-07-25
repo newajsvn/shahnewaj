@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shah Newaj</title>
+    <link>/</link>
+    <description>Recent content on Shah Newaj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Jun 2023 02:47:33 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second_post</title>
+      <link>/posts/second_post/</link>
+      <pubDate>Sun, 25 Jun 2023 02:47:33 -0400</pubDate>
+      
+      <guid>/posts/second_post/</guid>
+      <description>sdfsdfsdfdsf</description>
+    </item>
+    
+    <item>
+      <title>First_post</title>
+      <link>/posts/first_post/</link>
+      <pubDate>Sun, 25 Jun 2023 02:15:11 -0400</pubDate>
+      
+      <guid>/posts/first_post/</guid>
+      <description>Hello this is a good post</description>
+    </item>
+    
+  </channel>
+</rss>
